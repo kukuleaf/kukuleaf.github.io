@@ -5,6 +5,9 @@ description: description
 global_tags: jekyll theme simplex golasblog responsive html5
 copyright: © Golasowski 2021
 
+url: "https://kukuleaf.github.io"
+baseurl: ""
+
 sass:
     style: compressed
 
