@@ -11,3 +11,5 @@ _data
 *.md
 assets/img/authors
 assets/posts
+.jekyll-metadata
+vendor
