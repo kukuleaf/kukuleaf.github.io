@@ -3,10 +3,7 @@ logo_img: /assets/img/icons/simplex_logo.svg
 favicon: /assets/favicon.svg
 description: description
 global_tags: jekyll theme simplex golasblog responsive html5
-copyright: © Golasowski 2021
-
-url: "https://kukuleaf.github.io"
-baseurl: ""
+copyright: © kukuleaf 2025
 
 sass:
     style: compressed
