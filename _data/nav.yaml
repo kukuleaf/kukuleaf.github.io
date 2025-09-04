@@ -4,7 +4,7 @@
   hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
   subnav: #Subnav. See note [2].
       - title: Html #Submenu item title.
-        url: category/html.html #Submenu item url.
+        url: category/frontend/html.html #Submenu item url.
         # hue: "var(--c-themeHueOrange)" #Submenu item hue.
         # subnav: #Another subnav
         #     - title: Libraries
@@ -18,6 +18,13 @@
   url: category/database.html
   icon: assets/img/icons/database.png
   hue: "var(--c-themeHueOrange)"
+- title: Newsletter
+  url: category/newsletter.html
+  icon: assets/img/icons/newsletter.png
+  hue: "var(--c-themeHueGreen)"
+  subnav: #Subnav. See note [2].
+    - title: AI #Submenu item title.
+      url: category/newsletter/ai.html #Submenu item url.
 - title: About
   url: about/index.html
   icon: assets/img/icons/info.png
